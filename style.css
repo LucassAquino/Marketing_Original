@@ -1,0 +1,114 @@
+html{
+    font-size: 62.5%;
+    font-family: 'Helvetica';
+}
+
+p{
+    color: white;
+}
+
+li{
+    margin: 60px 0 60px 60px;
+    height: 56px;
+}
+
+footer{
+    background-color: white;
+}
+
+
+div{
+    margin: 0 auto;
+    width: 600px;
+    height: 2440px;
+    background-color: black;
+}
+
+li > p{
+    font-size: 1.8rem;
+    width: 383px;
+    text-align: justify;
+}
+
+.imgLi{
+    width: 56px;
+}
+
+img{
+    width: 600px;
+}
+
+#texto1{
+    font-weight: bold;
+    color: #00A857;
+    font-size: 3rem;
+    margin-left: 60px;
+    margin: 0 0 0 60px;
+    width: 439px;
+}
+
+#texto2{
+    margin: 60px 60px;
+    font-size: 1.8rem;
+    
+}
+
+#texto3{
+    font-weight: 400px;
+    margin-left: 60px;
+    margin-bottom: 60px;
+    font-size: 1.8rem;
+    width: 453px;
+}
+
+#top{
+    height: 131px;
+}
+
+#contabilidade{
+    height: 576px;
+}
+
+#completo{
+    height: 272px;
+}
+
+#footer{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+}
+
+#footerr{
+    margin: 30px;
+    width: 540px;
+    height: 97px;
+}
+
+#pFooter{
+    color: #00A857;
+}
+
+#pDiv{
+    height: 290px;
+    width: 540px;
+    background-color: #F6F6F6;
+    padding: 66px 54px;
+    font-size: 1.2rem;
+}
+
+#pFinal{
+    color: #4A4B4A;
+    font-size: 1.2rem;
+
+}
+
+#pDiv ul{
+    height: 40px;
+}
+
+.imgFooter{
+    width: 25px;
+    height: 25px;
+    padding-right: 10px;
+}
